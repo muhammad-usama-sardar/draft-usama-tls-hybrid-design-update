@@ -2,13 +2,13 @@
 
 
 
-WG Working Group                                              Y. N. Here
+WG Working Group                                            M. U. Sardar
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                          25 February 2026
 Expires: 29 August 2026
 
 
-                           TODO - Your title
+                Update to Hybrid Key Exchange in TLS 1.3
                   draft-todo-yourname-protocol-latest
 
 Abstract
@@ -109,6 +109,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
+   Muhammad Usama Sardar
    Your Organization Here
    Email: your.email@example.com
