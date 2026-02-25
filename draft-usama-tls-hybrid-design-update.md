@@ -19,7 +19,7 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
+title: "Update to Hybrid Key Exchange in TLS 1.3"
 abbrev: "TODO - Abbreviation"
 category: info
 
@@ -45,7 +45,7 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
+    fullname: Muhammad Usama Sardar
     organization: Your Organization Here
     email: your.email@example.com
 
